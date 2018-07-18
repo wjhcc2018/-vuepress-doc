@@ -1,7 +1,12 @@
-```
-git clone https://github.com/wjhcc2018/vuepress-doc.git
+## 首先要全局安装vuepress
 
-cd docs
+```
+npm install -g vuepress
+```
+```
+git clone https://github.com/wjhcc2018/vuepress-blogs.git
+
+cd blogs
 
 vuepress dev
 ```
