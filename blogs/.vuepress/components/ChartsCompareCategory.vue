@@ -22,18 +22,18 @@ export default {
          {name:"cdzzt",title:'堆叠柱状图',file:'https://antv.alipay.com/zh-cn/vis/chart/stacked-bar.html'},
          {name:"qpt",title:'气泡图',file:'https://antv.alipay.com/zh-cn/vis/chart/bubble.html',category:2},
          {name:"zdt",title:'子弹图',file:'https://antv.alipay.com/zh-cn/vis/chart/bullet.html'},
-         {name:"skt",title:'色块图',file:'ios',category:2},
-         {name:"ldt",title:'漏斗图',file:'android',category:2},
-         {name:"zft",title:'直方图',file:'es6',category:2},
-         {name:"kxt",title:'K线图',file:'typescript',category:3},
-         {name:"mskt",title:'马赛克图',file:'webpack',category:2},
-         {name:"leidt",title:'雷达图',file:'ios'},
+         {name:"skt",title:'色块图',file:'https://antv.alipay.com/zh-cn/vis/chart/color-map.html',category:2},
+         {name:"ldt",title:'漏斗图',file:'https://antv.alipay.com/zh-cn/vis/chart/funnel.html',category:2},
+         {name:"zft",title:'直方图',file:'https://antv.alipay.com/zh-cn/vis/chart/histogram.html',category:2},
+         {name:"kxt",title:'K线图',file:'https://antv.alipay.com/zh-cn/vis/chart/k-chart.html',category:3},
+         {name:"mskt",title:'马赛克图',file:'https://antv.alipay.com/zh-cn/vis/chart/mosaic.html',category:2},
+         {name:"leidt",title:'雷达图',file:'https://antv.alipay.com/zh-cn/vis/chart/radar.html'},
          {name:"ykt",title:'玉块图',file:'android'},
-         {name:"ndgemgt",title:'南丁格尔玫瑰图',file:'es6'},
-         {name:"lxt",title:'螺旋图',file:'typescript',category:2},
-         {name:"cdmjt",title:'堆叠面积图',file:'webpack',category:5},
-         {name:"jxst",title:'矩形树图',file:'ios',category:3},
-         {name:"cyt",title:'词云',file:'android'}
+         {name:"ndgemgt",title:'南丁格尔玫瑰图',file:'https://antv.alipay.com/zh-cn/vis/chart/rose.html'},
+         {name:"lxt",title:'螺旋图',file:'https://antv.alipay.com/zh-cn/vis/chart/spiral.html',category:2},
+         {name:"cdmjt",title:'堆叠面积图',file:'https://antv.alipay.com/zh-cn/vis/chart/stacked-area.html',category:5},
+         {name:"jxst",title:'矩形树图',file:'https://antv.alipay.com/zh-cn/vis/chart/treemap.html',category:3},
+         {name:"cyt",title:'词云',file:'https://antv.alipay.com/zh-cn/vis/chart/word-cloud.html'}
       ]
     }
  } 

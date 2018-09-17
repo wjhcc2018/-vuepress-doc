@@ -16,9 +16,9 @@ export default {
   data () {
     return {
       cArr:[
-         {name:"dqpddt",title:'带气泡的地图',file:'https://antv.alipay.com/zh-cn/vis/chart/stacked-bar.html'},
-         {name:"fjtjdt",title:'分级统计地图',file:'https://antv.alipay.com/zh-cn/vis/chart/bar.html'},
-         {name:"dmfdt",title:'点描法地图',file:'https://antv.alipay.com/zh-cn/vis/chart/bar.html',category:2}
+         {name:"dqpddt",title:'带气泡的地图',file:'https://antv.alipay.com/zh-cn/vis/chart/bubble-map.html'},
+         {name:"fjtjdt",title:'分级统计地图',file:'https://antv.alipay.com/zh-cn/vis/chart/choropleth-map.html'},
+         {name:"dmfdt",title:'点描法地图',file:'https://antv.alipay.com/zh-cn/vis/chart/dot-map.html',category:2}
       ]
     }
  } 

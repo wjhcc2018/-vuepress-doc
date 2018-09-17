@@ -16,8 +16,8 @@ export default {
   data () {
     return {
       cArr:[
-         {name:"ybp",title:'仪表盘',file:''},
-         {name:"ddmjt",title:'堆叠面积图',file:'',category:5}
+         {name:"ybp",title:'仪表盘',file:'https://antv.alipay.com/zh-cn/vis/chart/gauge.html'},
+         {name:"ddmjt",title:'堆叠面积图',file:'https://antv.alipay.com/zh-cn/vis/chart/stacked-area.html',category:5}
       ]
     }
  } 

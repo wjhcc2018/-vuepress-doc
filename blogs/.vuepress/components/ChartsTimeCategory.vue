@@ -16,12 +16,12 @@ export default {
   data () {
     return {
       cArr:[
-         {name:"area",title:'面积图',file:'',category:2},
-         {name:"j-chart",title:'K线图',file:'',category:3},
-         {name:"kagi",title:'卡吉图',file:'',category:2},
-         {name:"line",title:'折线图',file:'',category:2},
-         {name:"spiral",title:'螺旋图',file:'ios',category:2},
-         {name:"stacked-area",title:'堆叠面积图',file:'es6',category:5}
+         {name:"area",title:'面积图',file:'https://antv.alipay.com/zh-cn/vis/chart/area.html',category:2},
+         {name:"j-chart",title:'K线图',file:'https://antv.alipay.com/zh-cn/vis/chart/k-chart.html',category:3},
+         {name:"kagi",title:'卡吉图',file:'https://antv.alipay.com/zh-cn/vis/chart/kagi.html',category:2},
+         {name:"line",title:'折线图',file:'https://antv.alipay.com/zh-cn/vis/chart/line.html',category:2},
+         {name:"spiral",title:'螺旋图',file:'https://antv.alipay.com/zh-cn/vis/chart/spiral.html',category:2},
+         {name:"stacked-area",title:'堆叠面积图',file:'https://antv.alipay.com/zh-cn/vis/chart/stacked-area.html',category:5}
       ]
     }
  } 

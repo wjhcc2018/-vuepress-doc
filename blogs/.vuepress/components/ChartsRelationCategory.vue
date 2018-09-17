@@ -16,11 +16,11 @@ export default {
   data () {
     return {
       cArr:[
-         {name:"arc",title:'弦长链接图',file:''},
-         {name:"chord",title:'和弦图',file:''},
-         {name:"sankey",title:'桑甚图',file:'',category:2},
-         {name:"treemap",title:'矩形树图',file:'',category:3},
-         {name:"venn",title:'韦恩图',file:''}
+         {name:"arc",title:'弦长链接图',file:'https://antv.alipay.com/zh-cn/vis/chart/arc.html'},
+         {name:"chord",title:'和弦图',file:'https://antv.alipay.com/zh-cn/vis/chart/chord.html'},
+         {name:"sankey",title:'桑甚图',file:'https://antv.alipay.com/zh-cn/vis/chart/sankey.html',category:2},
+         {name:"treemap",title:'矩形树图',file:'https://antv.alipay.com/zh-cn/vis/chart/treemap.html',category:3},
+         {name:"venn",title:'韦恩图',file:'https://antv.alipay.com/zh-cn/vis/chart/venn.html'}
       ]
     }
  } 

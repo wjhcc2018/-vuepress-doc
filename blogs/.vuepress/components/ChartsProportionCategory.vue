@@ -16,12 +16,12 @@ export default {
   data () {
     return {
       cArr:[
-         {name:"ht",title:'环图',file:''},
-         {name:"mskt",title:'马赛克图',file:'',category:2},
-         {name:"bt",title:'饼图',file:''},
-         {name:"ddmjt",title:'堆叠面积图',file:'',category:5},
-         {name:"ddzht",title:'堆叠柱状图',file:'ios',category:2},
-         {name:"jxst",title:'矩形树图',file:'es6',category:3}
+         {name:"ht",title:'环图',file:'https://antv.alipay.com/zh-cn/vis/chart/donut.html'},
+         {name:"mskt",title:'马赛克图',file:'https://antv.alipay.com/zh-cn/vis/chart/mosaic.html',category:2},
+         {name:"bt",title:'饼图',file:'https://antv.alipay.com/zh-cn/vis/chart/pie.html'},
+         {name:"ddmjt",title:'堆叠面积图',file:'https://antv.alipay.com/zh-cn/vis/chart/stacked-area.html',category:5},
+         {name:"ddzht",title:'堆叠柱状图',file:'https://antv.alipay.com/zh-cn/vis/chart/stacked-bar.html',category:2},
+         {name:"jxst",title:'矩形树图',file:'https://antv.alipay.com/zh-cn/vis/chart/treemap.html',category:3}
       ]
     }
  } 

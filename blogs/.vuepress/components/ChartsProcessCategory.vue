@@ -16,8 +16,8 @@ export default {
   data () {
     return {
       cArr:[
-         {name:"sst",title:'桑甚图',file:'https://antv.alipay.com/zh-cn/vis/chart/stacked-bar.html'},
-         {name:"ldt",title:'漏斗图',file:'https://antv.alipay.com/zh-cn/vis/chart/bar.html',category:2}
+         {name:"sst",title:'桑甚图',file:'https://antv.alipay.com/zh-cn/vis/chart/sankey.html'},
+         {name:"ldt",title:'漏斗图',file:'https://antv.alipay.com/zh-cn/vis/chart/funnel.html',category:2}
       ]
     }
  } 
