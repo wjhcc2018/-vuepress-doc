@@ -16,26 +16,26 @@
 :::tip 功能角度
 说明：图表的作用是帮助我们更好的看懂数据，选择什么样的图表，需要回答的首要问题是【我们有什么数据，需要用图表做什么】。因此，我们从数据出发，从功能的角度对图表进行分类，如下所示：
 :::
-### 类别-[9类]
+## 类别-[9类]
 <ChartsCategory/>
 <!-- 比较类 -->
-### 比较类
+## 比较类
 <ChartsCompareCategory/>
 <!-- 分布类 -->
-### 分布类
+## 分布类
 <ChartsSpreadCategory/>
 <!-- 流程类 -->
-### 流程类
+## 流程类
 <ChartsProcessCategory/>
-### 地图类
+## 地图类
 <ChartsMapCategory/>
 ### 占比类
 <ChartsProportionCategory/>
-### 区间类
+## 区间类
 <ChartsRangeCategory />
-### 关联类
+## 关联类
 <ChartsRelationCategory />
-### 时间类
+## 时间类
 <ChartsTimeCategory />
-### 趋势类
+## 趋势类
 <ChartsTrendCategory/>
